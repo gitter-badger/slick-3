@@ -1,7 +1,0 @@
-[package]
-name="Hyperpony"
-version="0.0.1-pre-alpha"
-
-[dependencies]
-
-[dev_dependencies]
