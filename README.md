@@ -6,4 +6,4 @@ Files: helloworld.cdy
 Modules: mymodule.cdm
 Headers: myheader.cdh
 
-Currently every file ends with .file 
+Currently every file ends with .cdy
