@@ -1,3 +1,3 @@
-*.cdy linguist-language=nesC
+*.cdy linguist-language=eC
 *.cdh linguist-language=nesC
 *.cdm linguist-language=nesC
