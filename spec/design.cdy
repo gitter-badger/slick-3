@@ -1,0 +1,14 @@
+// this file covers some general syntax design ideas
+namespace spec.design
+{
+  include "mylocalfile.cdy"   // include candy scripts
+  include "mylocalmodule.cdm" // include candy modules
+  include "myheader.cdh"      // include candy headers
+
+  class myawesomeclass 
+  {
+    public myfunction(myparameter: i32) i32 {
+      (myparameter + 1).println();
+    }
+  }
+}
