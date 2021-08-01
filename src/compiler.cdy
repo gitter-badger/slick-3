@@ -1,1 +1,14 @@
+include std.file;
 
+/**
+ * @@entrypoint
+ */
+namespace src.compiler 
+{
+  class compiler 
+  {
+    public main(args: string[]) void {
+      file.gets(args);
+    }
+  }
+}
