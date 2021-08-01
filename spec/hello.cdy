@@ -1,0 +1,6 @@
+class greeter 
+{
+  public main(name: string): string {
+    ("Hello, %s!", name).println();
+  }
+}
