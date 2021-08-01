@@ -1,9 +1,11 @@
 # The candy programming-language
 
-Candy is a multi-paradigm programming language for the general use.
+Candy is a multi-paradigm programming language for the unconventional C developer, featuring automatic memory mapping, clean bytecode generation, full boostrapping compiler amd more.
 
-Files: helloworld.cdy
-Modules: mymodule.cdm
-Headers: myheader.cdh
+## Features
 
-Currently every file ends with .cdy
+Todo
+
+## install
+
+Todo
