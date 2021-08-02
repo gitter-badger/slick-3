@@ -1,6 +1,6 @@
-# The candy programming-language
+# The slick programming-language
 
-Candy is a multi-paradigm programming language for the unconventional C developer, featuring automatic memory mapping, clean bytecode generation, full boostrapping compiler amd more.
+slick is a multi-paradigm programming language for the unconventional C developer, featuring automatic memory mapping, clean bytecode generation, full boostrapping compiler amd more.
 
 ## Features
 
