@@ -1,9 +1,8 @@
 // this file covers some general syntax design ideas
 namespace spec.design
 {
-  include "mylocalfile.cdy"   // include candy scripts
-  include "mylocalmodule.cdm" // include candy modules
-  include "myheader.cdh"      // include candy headers
+  include "mylocalfile.slick"    // include slick scripts
+  include "mylocalmodule.module" // include slick modules
 
   class myawesomeclass 
   {
