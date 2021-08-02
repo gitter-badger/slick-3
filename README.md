@@ -21,4 +21,4 @@ Todo
 - **Sources**: https://github.com/timo-cmd2/slick
 - **Patreon**: patreon.com/slicklang
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick?ref=badge_large) [![Join the chat at https://gitter.im/slicklang/community](https://badges.gitter.im/slicklang/community.svg)](https://gitter.im/slicklang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
