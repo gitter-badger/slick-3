@@ -17,3 +17,5 @@ Todo
 - **Website**: coming soon
 - **Sources**: https://github.com/timo-cmd2/slick
 - **Patreon**: patreon.com/slicklang
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftimo-cmd2%2Fslick?ref=badge_large)
