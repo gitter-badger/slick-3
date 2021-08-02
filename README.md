@@ -9,3 +9,11 @@ Todo
 ## install
 
 Todo
+
+## Ressources
+
+- **IRC channel**: #slick-lang @freenode
+- **Gitter community**: #slick-lang
+- **Website**: coming soon
+- **Sources**: https://github.com/timo-cmd2/slick
+- **Patreon**: patreon.com/slicklang
